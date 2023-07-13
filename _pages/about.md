@@ -38,7 +38,7 @@ Besides, I am passionate about photography and traveling.
 
 Arxiv Preprint, 2023
 
-<a href="https://arxiv.org/pdf/2304.05011">PDF</a>
+[PDF](https://arxiv.org/pdf/2304.05011)
 
 </div>
 </div>
@@ -52,12 +52,12 @@ Yating Wei, Zhiyong Wang, Zhongwei Wang, Yong Dai, Gongchang Ou, Han Gao, Haitao
 
 IEEE Transactions on Visualization and Computer Graphics, 2023
 
-<a href="https://ieeexplore.ieee.org/abstract/document/10041726">PDF</a>
+[PDF](https://ieeexplore.ieee.org/abstract/document/10041726)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/situated.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/situated.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization**
@@ -66,7 +66,7 @@ Zhen Wen, Wei Zeng, **Luoxuan Weng**, Yihan Liu, Mingliang Xu, Wei Chen
 
 IEEE Visualization, 2022
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9904883">PDF</a> | <a href="https://zjuvag.org/publications/situated-multiple-view/situated-multiple-view.video.mp4">Video</a>
+[PDF](https://ieeexplore.ieee.org/abstract/document/9904883) \| [Video](https://zjuvag.org/publications/situated-multiple-view/situated-multiple-view.video.mp4)
 
 </div>
 </div>
