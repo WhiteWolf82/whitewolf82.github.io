@@ -19,8 +19,9 @@ redirect_from:
 
 I am Luoxuan Weng, currently a Ph.D. student in Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I received my B.S. degree in Software Engineering from Zhejiang University.
 
-My research interests broadly lie in the intersection of visual analytics, human-centered computing, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, with the aim of discovering enhanced techniques for engaging with large language models (LLMs).
+My research interests broadly lie in the intersection of visual analytics, human-centered computing, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, aiming at exploring enhanced techniques for interacting with large language models (LLMs).
 
+Besides, I am passionate about photography and traveling.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -65,22 +66,22 @@ Zhen Wen, Wei Zeng, **Luoxuan Weng**, Yihan Liu, Mingliang Xu, Wei Chen
 
 IEEE Visualization, 2022
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9904883">PDF</a>&nbsp|&nbsp<a href="https://zjuvag.org/publications/situated-multiple-view/situated-multiple-view.video.mp4">Video</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9904883">PDF</a> | <a href="https://zjuvag.org/publications/situated-multiple-view/situated-multiple-view.video.mp4">Video</a>
 
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- Outstanding Graduate of Zhejiang University *2021*
-- Excellent Engineering Scholarship *2021*
-- Zhejiang University Scholarship *2017-2020*
-- Academic Excellence Award *2017-2020*
-- Innovation and Entrepreneurship Award, *2017* 
+- Outstanding Graduate of Zhejiang University, 2021
+- Excellent Engineering Scholarship, 2021
+- Zhejiang University Scholarship, 2017-2020
+- Academic Excellence Award, 2017-2020
+- Innovation and Entrepreneurship Award, 2017
 
 # 📖 Educations
-- *2021 - Present*, Ph.D. student @ZJU, Computer Engineering 
-- *2017 - 2021*, B.S. @ZJU, Software Engineering
+- Ph.D. student @ZJU, Computer Engineering, 2021-Present
+- B.S. @ZJU, Software Engineering, 2017-2021
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

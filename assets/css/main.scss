@@ -70,7 +70,7 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 20px;
+            min-width: 200px;
             max-width: 40%;
             order: 1;
         }
@@ -98,12 +98,10 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #224b8d;
     font-size: .8em;
+    border-radius: 5px;
+    text-align: center;
 }

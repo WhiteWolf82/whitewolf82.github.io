@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luoxuan Weng (翁罗轩)"
-description              : "Ph.D. Student at State Key Lab of CAD&CG, Zhejiang University"
+description              : "Ph.D. Student @ZJU"
 repository               : "WhiteWolf82/whitewolf82.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Luoxuan Weng (翁罗轩)"
   avatar           : "images/avatar.jpg"
-  bio              : "Zhejiang University"
+  bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "lukeweng@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "whitewolf82.github.io"
