@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Luoxuan Weng, currently a Ph.D. student in Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I received my B.S. degree in Software Engineering from Zhejiang University.
+I am currently a Ph.D. student of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I received my B.S. degree in Software Engineering from Zhejiang University.
 
 My research interests broadly lie in the intersection of visual analytics, human-centered computing, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, aiming at exploring enhanced techniques for interacting with large language models (LLMs).
 

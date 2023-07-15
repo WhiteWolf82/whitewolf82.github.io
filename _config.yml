@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Luoxuan Weng (翁罗轩)"
+  name_en          : "Luoxuan Weng"
+  name_cn          : "翁罗轩"
   avatar           : "images/avatar.jpg"
   bio              : "State Key Lab of CAD&CG, Zhejiang University"
   location         : "Hangzhou, China"
