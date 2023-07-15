@@ -52,7 +52,7 @@ Yating Wei, Zhiyong Wang, Zhongwei Wang, Yong Dai, Gongchang Ou, Han Gao, Haitao
 
 IEEE Transactions on Visualization and Computer Graphics, 2023
 
-[PDF](https://ieeexplore.ieee.org/abstract/document/10041726)
+[PDF](https://ieeexplore.ieee.org/abstract/document/10041726) \| [Video](https://zjuvag.org/publications/wei-2023-visual/wei-2023-visual.video.mp4)
 
 </div>
 </div>
