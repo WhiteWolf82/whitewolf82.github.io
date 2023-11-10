@@ -29,7 +29,7 @@ Besides, I am passionate about photography and traveling.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/openagents.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/openagents.png' alt="openagents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OpenAgents: An Open Platform for Language Agents in the Wild**
@@ -43,7 +43,7 @@ Arxiv Preprint, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/gptdetect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/gptdetect.png' alt="gptdetect" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards an Understanding and Explanation for Mixed-Initiative Artificial Scientific Text Detection**
@@ -57,7 +57,7 @@ Arxiv Preprint, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/dnn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/dnn.png' alt="dnn" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Visual Diagnostics of Parallel Performance in Training Large-Scale DNN Models**
@@ -71,7 +71,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2023
 </div>
 </div>
 
-<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/situated.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/situated.png' alt="situated" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization**
@@ -85,6 +85,24 @@ IEEE Transactions on Visualization and Computer Graphics (VIS 2022)
 </div>
 </div>
 
+# 📽 Projects
+<div class='paper-box'>
+<div class='paper-box-image'>
+<img src='images/projects/openagents.jpg' alt="openagents" width="100%">
+</div>
+<div class='paper-box-text' markdown="1">
+
+**OpenAgents** (*2.5k+ github stars, 5k+ demo users*)
+
+Open-source implementation of language agents:
+- Data Agent: code interpreter augmented with data tools
+- Plugins Agent: 200+ plugins for daily life
+- Web Agent: autonomous web browsing
+
+[Code](https://github.com/xlang-ai/OpenAgents) \| [Demo](http://chat.xlang.ai/) \| [Docs](https://docs.xlang.ai/) \| [Twitter](https://twitter.com/Luoxuan_W/status/1714481429965664576)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - Outstanding Graduate of Zhejiang University, 2021
