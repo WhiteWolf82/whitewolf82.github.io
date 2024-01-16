@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. I also work with <a href="https://www.xlang.ai/">XLang Lab</a> at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a>. Before that, I received my B.E. degree in Software Engineering from Zhejiang University.
+I am currently a Ph.D. student of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. I also worked with <a href="https://www.xlang.ai/">XLang Lab</a> at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a>. Before that, I received my B.E. degree in Software Engineering from Zhejiang University.
 
 My research interests broadly lie in the intersection of visual analytics, human-centered computing, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, aiming at exploring enhanced techniques for interacting with large language models (LLMs).
 
@@ -28,6 +28,20 @@ Besides, I am passionate about photography and traveling.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/sprout.png' alt="sprout" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SPROUT: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process**
+
+Yihan Liu, Zhen Wen, **Luoxuan Weng**, Ollie Woodman, Yi Yang, Wei Chen
+
+Arxiv Preprint, 2023
+
+[PDF](https://arxiv.org/pdf/2312.01801.pdf) \| [Code](https://osf.io/uez2t/?view_only=5102e958802341daa414707646428f86)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/openagents.png' alt="openagents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,7 +106,7 @@ IEEE Transactions on Visualization and Computer Graphics (VIS 2022)
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*2.5k+ github stars, 5k+ demo users*)
+**OpenAgents** (*3k+ github stars, 5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
