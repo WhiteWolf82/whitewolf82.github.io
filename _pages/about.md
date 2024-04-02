@@ -94,7 +94,7 @@ Yating Wei, Zhiyong Wang, Zhongwei Wang, Yong Dai, Gongchang Ou, Han Gao, Haitao
 
 IEEE Transactions on Visualization and Computer Graphics, 2023
 
-[PDF](https://luoxuanweng.site/pdfs/DNN.pdf) \| [Video](hhttps://luoxuanweng.site/videos/DNN.mp4)
+[PDF](https://luoxuanweng.site/pdfs/DNN.pdf) \| [Video](https://luoxuanweng.site/videos/DNN.mp4)
 
 </div>
 </div>
