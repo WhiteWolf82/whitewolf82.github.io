@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. I also worked with <a href="https://www.xlang.ai/">XLang Lab</a> at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a>. Before that, I received my B.E. degree in Software Engineering from Zhejiang University.
 
-My research interests broadly lie in the intersection of visual analytics, human-centered computing, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, aiming at exploring enhanced techniques for interacting with large language models (LLMs).
+My research interests broadly lie in the intersection of visual analytics, human-computer interaction, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in natural language interaction, aiming at exploring enhanced techniques for interacting with large language models (LLMs).
 
 Besides, I am passionate about photography and traveling.
 
@@ -29,49 +29,63 @@ Besides, I am passionate about photography and traveling.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/sprout.jpg' alt="sprout" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/InsightLens.png' alt="InsightLens" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SPROUT: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process**
+***InsightLens*: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis**
+
+**Luoxuan Weng**, Xingbo Wang, Junyu Lu, Yingchaojie Feng, Yihan Liu, Wei Chen
+
+Arxiv Preprint, 2024
+
+[PDF](https://luoxuanweng.site/pdfs/InsightLens.pdf) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IVI</div><img src='images/papers/GPTDetector.png' alt="GPTDetector" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards an Understanding and Explanation for Mixed-Initiative Artificial Scientific Text Detection**
+
+**Luoxuan Weng**, Shi Liu, Hang Zhu, Jiashun Sun, Kam Kwai Wong, Dongming Han, Minfeng Zhu, Wei Chen
+
+Information Visualization, 2024
+
+[PDF](https://luoxuanweng.site/pdfs/GPTDetector.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/papers/OpenAgents.png' alt="OpenAgents" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***OpenAgents*: An Open Platform for Language Agents in the Wild**
+
+Tianbao Xie\*, Fan Zhou\*, Zhoujun Cheng\*, Peng Shi\*, **Luoxuan Weng\***, Yitao Liu\*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu (\*Equal contribution)
+
+International Conference on Learning Representations (ICLR) Workshop on LLM Agents, 2024
+
+[PDF](https://luoxuanweng.site/pdfs/OpenAgents.pdf) \| [Code](https://github.com/xlang-ai/OpenAgents) \| [Demo](http://chat.xlang.ai/) \| [Video](https://luoxuanweng.site/videos/OpenAgents.mp4)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/SPROUT.jpg' alt="SPROUT" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***SPROUT*: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process**
 
 Yihan Liu, Zhen Wen, **Luoxuan Weng**, Ollie Woodman, Yi Yang, Wei Chen
 
 Arxiv Preprint, 2023
 
-[PDF](https://arxiv.org/pdf/2312.01801.pdf) \| [Code](https://osf.io/uez2t/?view_only=5102e958802341daa414707646428f86)
+[PDF](https://luoxuanweng.site/pdfs/SPROUT.pdf) \| [Video](https://luoxuanweng.site/videos/SPROUT.mp4) \| [Material](https://osf.io/uez2t/?view_only=5102e958802341daa414707646428f86)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/openagents.png' alt="openagents" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**OpenAgents: An Open Platform for Language Agents in the Wild**
-
-Tianbao Xie\*, Fan Zhou\*, Zhoujun Cheng\*, Peng Shi\*, **Luoxuan Weng\***, Yitao Liu\*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu (\*Equal contribution)
-
-Arxiv Preprint, 2023
-
-[PDF](https://arxiv.org/pdf/2310.10634.pdf) \| [Code](https://github.com/xlang-ai/OpenAgents) \| [Demo](http://chat.xlang.ai/) \| [Video](https://twitter.com/i/status/1714343204148113860)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/gptdetect.png' alt="gptdetect" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Towards an Understanding and Explanation for Mixed-Initiative Artificial Scientific Text Detection**
-
-**Luoxuan Weng**, Minfeng Zhu, Kam Kwai Wong, Shi Liu, Jiashun Sun, Hang Zhu, Dongming Han, Wei Chen
-
-Arxiv Preprint, 2023
-
-[PDF](https://arxiv.org/pdf/2304.05011)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/dnn.png' alt="dnn" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/DNN.png' alt="DNN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Visual Diagnostics of Parallel Performance in Training Large-Scale DNN Models**
@@ -80,21 +94,21 @@ Yating Wei, Zhiyong Wang, Zhongwei Wang, Yong Dai, Gongchang Ou, Han Gao, Haitao
 
 IEEE Transactions on Visualization and Computer Graphics, 2023
 
-[PDF](https://ieeexplore.ieee.org/abstract/document/10041726) \| [Video](https://zjuvag.org/publications/wei-2023-visual/wei-2023-visual.video.mp4)
+[PDF](https://luoxuanweng.site/pdfs/DNN.pdf) \| [Video](hhttps://luoxuanweng.site/videos/DNN.mp4)
 
 </div>
 </div>
 
-<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/situated.png' alt="situated" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/Situated.png' alt="Situated" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization**
 
 Zhen Wen, Wei Zeng, **Luoxuan Weng**, Yihan Liu, Mingliang Xu, Wei Chen
 
-IEEE Transactions on Visualization and Computer Graphics (VIS 2022)
+IEEE Visualization Conference (VIS), 2022
 
-[PDF](https://ieeexplore.ieee.org/abstract/document/9904883) \| [Video](https://zjuvag.org/publications/situated-multiple-view/situated-multiple-view.video.mp4)
+[PDF](https://luoxuanweng.site/pdfs/Situated.pdf) \| [Video](https://luoxuanweng.site/videos/Situated.mp4)
 
 </div>
 </div>
@@ -102,11 +116,11 @@ IEEE Transactions on Visualization and Computer Graphics (VIS 2022)
 # 📽 Projects
 <div class='paper-box'>
 <div class='paper-box-image'>
-<img src='images/projects/openagents.jpg' alt="openagents" width="100%">
+<img src='images/projects/OpenAgents.jpg' alt="openagents" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*3k+ github stars, 5k+ demo users*)
+**OpenAgents** (*3.3k+ github stars, 5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
