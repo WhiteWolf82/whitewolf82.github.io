@@ -120,7 +120,7 @@ IEEE Visualization Conference (VIS), 2022
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*3.3k+ github stars, 5k+ demo users*)
+**OpenAgents** (*3.6k+ github stars, 6.5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
@@ -133,6 +133,7 @@ Open-source implementation of language agents:
 </div>
 
 # 🎖 Honors and Awards
+- First Prize in Academic Excellence Scholarship, 2023
 - Outstanding Graduate of Zhejiang University, 2021
 - Excellent Engineering Scholarship, 2021
 - Zhejiang University Scholarship, 2017-2020
@@ -146,7 +147,7 @@ Open-source implementation of language agents:
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China -->
