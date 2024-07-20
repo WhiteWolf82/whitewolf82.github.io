@@ -57,7 +57,7 @@ Information Visualization, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/papers/OpenAgents.png' alt="OpenAgents" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM</div><img src='images/papers/OpenAgents.png' alt="OpenAgents" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***OpenAgents*: An Open Platform for Language Agents in the Wild**
@@ -132,6 +132,13 @@ Open-source implementation of language agents:
 </div>
 </div>
 
+# 💻 Experiences
+- *2024.06 - now*, Research Intern, [Tencent](https://www.tencent.com/), Shenzhen
+- *2023.06 - 2023.11*, Research Assistant, [XLang Lab](https://www.xlang.ai/), Hong Kong
+- *2022.05 - 2022.09*, Research Engineer, [OPPO](https://ur.oppo.com/), Hangzhou
+- *2021.08 - 2021.12*, Research Engineer, [Huawei](https://www.huawei.com/cn/), Hangzhou
+- *2020.07 - 2020.10*, Software Engineer, [Tencent](https://www.tencent.com/), Shenzhen
+
 # 🎖 Honors and Awards
 - First Prize in Academic Excellence Scholarship, 2023
 - Outstanding Graduate of Zhejiang University, 2021
@@ -148,6 +155,3 @@ Open-source implementation of language agents:
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China -->
