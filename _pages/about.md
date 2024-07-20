@@ -64,21 +64,21 @@ Information Visualization, 2024
 
 Tianbao Xie\*, Fan Zhou\*, Zhoujun Cheng\*, Peng Shi\*, **Luoxuan Weng\***, Yitao Liu\*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu (\*Equal contribution)
 
-International Conference on Learning Representations (ICLR) Workshop on LLM Agents, 2024
+Conference on Language Modeling, 2024
 
 [PDF](https://luoxuanweng.site/pdfs/OpenAgents.pdf) \| [Code](https://github.com/xlang-ai/OpenAgents) \| [Demo](http://chat.xlang.ai/) \| [Video](https://luoxuanweng.site/videos/OpenAgents.mp4)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/SPROUT.jpg' alt="SPROUT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/SPROUT.jpg' alt="SPROUT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***SPROUT*: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process**
 
 Yihan Liu, Zhen Wen, **Luoxuan Weng**, Ollie Woodman, Yi Yang, Wei Chen
 
-Arxiv Preprint, 2023
+IEEE Transactions on Visualization and Computer Graphics, 2024
 
 [PDF](https://luoxuanweng.site/pdfs/SPROUT.pdf) \| [Video](https://luoxuanweng.site/videos/SPROUT.mp4) \| [Material](https://osf.io/uez2t/?view_only=5102e958802341daa414707646428f86)
 
@@ -99,14 +99,14 @@ IEEE Transactions on Visualization and Computer Graphics, 2023
 </div>
 </div>
 
-<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">VIS</div><img src='images/papers/Situated.png' alt="Situated" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/Situated.png' alt="Situated" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization**
 
 Zhen Wen, Wei Zeng, **Luoxuan Weng**, Yihan Liu, Mingliang Xu, Wei Chen
 
-IEEE Visualization Conference (VIS), 2022
+IEEE Transactions on Visualization and Computer Graphics (Proc. of VIS), 2023
 
 [PDF](https://luoxuanweng.site/pdfs/Situated.pdf) \| [Video](https://luoxuanweng.site/videos/Situated.mp4)
 
@@ -120,7 +120,7 @@ IEEE Visualization Conference (VIS), 2022
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*3.6k+ github stars, 6.5k+ demo users*)
+**OpenAgents** (*3.8k+ github stars, 6.5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
