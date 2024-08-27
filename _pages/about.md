@@ -74,7 +74,7 @@ Conference on Language Modeling, 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/SPROUT.jpg' alt="SPROUT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***SPROUT*: Authoring Programming Tutorials with Interactive Visualization of Large Language Model Generation Process**
+***SPROUT*: an Interactive Authoring Tool for Generating Programming Tutorials with the Visualization of Large Language Models**
 
 Yihan Liu, Zhen Wen, **Luoxuan Weng**, Ollie Woodman, Yi Yang, Wei Chen
 
