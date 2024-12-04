@@ -40,6 +40,9 @@ Arxiv Preprint, 2024
 
 [PDF](https://luoxuanweng.site/pdfs/DataLab.pdf)
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/InsightLens.png' alt="InsightLens" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
