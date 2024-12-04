@@ -32,7 +32,7 @@ Besides, I am passionate about photography and traveling.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/DataLab.png' alt="DataLab" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DataLab: A Unifed Platform for LLM-Powered Business Intelligence**
+**DataLab: A Unified Platform for LLM-Powered Business Intelligence**
 
 **Luoxuan Weng**, Yinghao Tang, Yingchaojie Feng, Zhuo Chang, Peng Chen, Ruiqin Chen, Haozhe Feng, Chen Hou, Danqing Huang, Yang Li, Huaming Rao, Haonan Wang, Canshi Wei, Xiaofeng Yang, Yuhui Zhang, Yifeng Zheng, Xiuqi Huang, Minfeng Zhu, Yuxin Ma, Bin Cui, Wei Chen
 
