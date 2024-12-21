@@ -29,6 +29,20 @@ Besides, I am passionate about photography and traveling.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/InsightLens.png' alt="InsightLens" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+***InsightLens*: Augmenting LLM-Powered Data Analysis with Interactive Insight Management and Navigation**
+
+**Luoxuan Weng**, Xingbo Wang, Junyu Lu, Yingchaojie Feng, Yihan Liu, Haozhe Feng, Danqing Huang, Wei Chen
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. of PacificVis), 2025
+
+[PDF](https://luoxuanweng.site/pdfs/InsightLens.pdf) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/DataLab.png' alt="DataLab" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,20 +53,6 @@ Besides, I am passionate about photography and traveling.
 Arxiv Preprint, 2024
 
 [PDF](https://luoxuanweng.site/pdfs/DataLab.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/InsightLens.png' alt="InsightLens" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-***InsightLens*: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis**
-
-**Luoxuan Weng**, Xingbo Wang, Junyu Lu, Yingchaojie Feng, Yihan Liu, Wei Chen
-
-Arxiv Preprint, 2024
-
-[PDF](https://luoxuanweng.site/pdfs/InsightLens.pdf) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
 
 </div>
 </div>
