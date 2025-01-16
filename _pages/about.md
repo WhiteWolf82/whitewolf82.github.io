@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I received my B.E. degree in Software Engineering from Zhejiang University. I have also worked with <a href="https://www.xlang.ai/">XLang Lab</a> at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a>.
 
-My research interests broadly lie in the intersection of visual analytics, human-computer interaction, and natural language processing. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in AI-assisted data analysis, focusing on leveraging advanced generative AI techniques (especially LLMs/VLMs) to augment data engineering, science, and analysis workflows.
+My research interests broadly lie in the intersection of LLM, visual analytics, and human-computer interaction. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in AI-assisted data analysis, focusing on leveraging advanced generative AI techniques (especially LLMs/VLMs) to augment data engineering, science, and analysis workflows.
 
 Besides, I am passionate about photography and traveling.
 
@@ -134,7 +134,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. of VIS), 2023
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*4k+ github stars, 6.5k+ demo users*)
+**OpenAgents** (*4.1k+ github stars, 6.5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
@@ -147,7 +147,8 @@ Open-source implementation of language agents:
 </div>
 
 # 💻 Experiences
-- *2024.06 - 2024.12*, Research Intern, [Tencent](https://www.tencent.com/), Shenzhen
+- *2025.01 - now*, Research Engineer, [HiThink](https://hithink.sg/), Hangzhou
+- *2024.06 - 2024.12*, Research Engineer, [Tencent](https://www.tencent.com/), Shenzhen
 - *2023.06 - 2023.11*, Research Assistant, [XLang Lab](https://www.xlang.ai/), Hong Kong
 - *2021.08 - 2021.12*, Research Engineer, [Huawei](https://www.huawei.com/cn/), Hangzhou
 - *2020.07 - 2020.10*, Software Engineer, [Tencent](https://www.tencent.com/), Shenzhen
