@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate of Computer Engineering at the <a href="https://zjuvag.org/">Visual Analytics and Intelligence Group of ZJU (ZJUVAI)</a>, under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I received my B.E. degree in Software Engineering from Zhejiang University. I have also worked with <a href="https://www.xlang.ai/">XLang Lab</a> at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a>.
 
-My research interests broadly lie in the intersection of LLM, visual analytics, and human-computer interaction. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in AI-assisted data analysis, focusing on leveraging advanced generative AI techniques (especially LLMs/VLMs) to augment data engineering, science, and analysis workflows.
+My research interests broadly lie in the intersection of large language models, visual analytics, and human-computer interaction. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in AI-assisted data analysis, focusing on leveraging advanced generative AI techniques (especially LLMs/VLMs) to augment data engineering, science, and analysis workflows.
 
 Besides, I am passionate about photography and traveling.
 
