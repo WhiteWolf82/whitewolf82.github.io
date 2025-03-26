@@ -29,6 +29,20 @@ Besides, I am passionate about photography and traveling.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE</div><img src='images/papers/DataLab.png' alt="DataLab" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DataLab: A Unified Platform for LLM-Powered Business Intelligence**
+
+**Luoxuan Weng**, Yinghao Tang, Yingchaojie Feng, Zhuo Chang, Peng Chen, Ruiqin Chen, Haozhe Feng, Chen Hou, Danqing Huang, Yang Li, Huaming Rao, Haonan Wang, Canshi Wei, Xiaofeng Yang, Yuhui Zhang, Yifeng Zheng, Xiuqi Huang, Minfeng Zhu, Yuxin Ma, Bin Cui, Wei Chen
+
+IEEE International Conference on Data Engineering, 2025
+
+[PDF](https://luoxuanweng.site/pdfs/DataLab.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/InsightLens.png' alt="InsightLens" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,20 +53,6 @@ Besides, I am passionate about photography and traveling.
 IEEE Transactions on Visualization and Computer Graphics (Proc. of PacificVis), 2025
 
 [PDF](https://luoxuanweng.site/pdfs/InsightLens.pdf) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/DataLab.png' alt="DataLab" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DataLab: A Unified Platform for LLM-Powered Business Intelligence**
-
-**Luoxuan Weng**, Yinghao Tang, Yingchaojie Feng, Zhuo Chang, Peng Chen, Ruiqin Chen, Haozhe Feng, Chen Hou, Danqing Huang, Yang Li, Huaming Rao, Haonan Wang, Canshi Wei, Xiaofeng Yang, Yuhui Zhang, Yifeng Zheng, Xiuqi Huang, Minfeng Zhu, Yuxin Ma, Bin Cui, Wei Chen
-
-Arxiv Preprint, 2024
-
-[PDF](https://luoxuanweng.site/pdfs/DataLab.pdf)
 
 </div>
 </div>
@@ -134,7 +134,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. of VIS), 2023
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*4.1k+ github stars, 6.5k+ demo users*)
+**OpenAgents** (*4.2k+ github stars, 6.5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
