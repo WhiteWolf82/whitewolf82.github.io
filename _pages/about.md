@@ -38,7 +38,7 @@ Zhen Wen, **Luoxuan Weng**, Yinghao Tang, Runjin Zhang, Yuxin Liu, Bo Pan, Minfe
 
 Arxiv, 2025
 
-[PDF](https://luoxuanweng.site/pdfs/VisPilot.pdf) | [Homepage](https://wenzhen.site/vispilot/)
+[PDF](https://luoxuanweng.site/pdfs/VisPilot.pdf) \| [Homepage](https://wenzhen.site/vispilot/)
 
 </div>
 </div>
