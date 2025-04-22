@@ -29,6 +29,20 @@ Besides, I am passionate about photography and traveling.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/VisPilot.png' alt="VisPilot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**
+
+Zhen Wen, **Luoxuan Weng**, Yinghao Tang, Runjin Zhang, Yuxin Liu, Bo Pan, Minfeng Zhu, Wei Chen
+
+Arxiv, 2025
+
+[PDF](https://luoxuanweng.site/pdfs/VisPilot.pdf) | [Homepage](https://wenzhen.site/vispilot/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE</div><img src='images/papers/DataLab.png' alt="DataLab" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,7 +148,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. of VIS), 2023
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*4.2k+ github stars, 6.5k+ demo users*)
+**OpenAgents** (*4.3k+ github stars, 6.5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
