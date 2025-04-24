@@ -36,7 +36,7 @@ Besides, I am passionate about photography and traveling.
 
 Zhen Wen, **Luoxuan Weng**, Yinghao Tang, Runjin Zhang, Yuxin Liu, Bo Pan, Minfeng Zhu, Wei Chen
 
-Arxiv, 2025
+Arxiv Preprint, 2025
 
 [PDF](https://luoxuanweng.site/pdfs/VisPilot.pdf) \| [Homepage](https://wenzhen.site/vispilot/)
 
@@ -167,6 +167,10 @@ Open-source implementation of language agents:
 - *2021.08 - 2021.12*, Research Engineer, [Huawei](https://www.huawei.com/cn/), Hangzhou
 - *2020.07 - 2020.10*, Software Engineer, [Tencent](https://www.tencent.com/), Shenzhen
 
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
 # 🎖 Honors and Awards
 - First Prize in Academic Excellence Scholarship, 2023-2024
 - Outstanding Graduate of Zhejiang University, 2021
@@ -179,7 +183,3 @@ Open-source implementation of language agents:
 - Ph.D. student @ZJU, Computer Engineering, 2022-Present
 - Master student @ZJU, Computer Science, 2021-2022
 - B.E. @ZJU, Software Engineering, 2017-2021
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
