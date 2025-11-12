@@ -148,7 +148,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. of VIS), 2023
 </div>
 <div class='paper-box-text' markdown="1">
 
-**OpenAgents** (*4.3k+ github stars, 6.5k+ demo users*)
+**OpenAgents** (*4.6k+ github stars, 7.5k+ demo users*)
 
 Open-source implementation of language agents:
 - Data Agent: code interpreter augmented with data tools
@@ -161,7 +161,7 @@ Open-source implementation of language agents:
 </div>
 
 # 💻 Experiences
-- *2025.01 - now*, Research Engineer, [HiThink](https://hithink.sg/), Hangzhou
+- *2025.02 - 2025.08*, Research Engineer, [HiThink](https://hithink.sg/), Hangzhou
 - *2024.06 - 2024.12*, Research Engineer, [Tencent](https://www.tencent.com/), Shenzhen
 - *2023.06 - 2023.11*, Research Assistant, [XLang Lab](https://www.xlang.ai/), Hong Kong
 - *2021.08 - 2021.12*, Research Engineer, [Huawei](https://www.huawei.com/cn/), Hangzhou
@@ -172,6 +172,7 @@ Open-source implementation of language agents:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🎖 Honors and Awards
+- Tencent Scholarship, 2025
 - First Prize in Academic Excellence Scholarship, 2023-2024
 - Outstanding Graduate of Zhejiang University, 2021
 - Excellent Engineering Scholarship, 2021
