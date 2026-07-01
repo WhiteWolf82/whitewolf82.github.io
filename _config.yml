@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luoxuan Weng (翁罗轩)"
-description              : "Ph.D. Student @ZJU"
+description              : "Senior Algorithm Engineer @Alibaba Cloud"
 repository               : "WhiteWolf82/whitewolf82.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name_en          : "Luoxuan Weng"
   name_cn          : "翁罗轩"
   avatar           : "images/avatar.jpg"
-  bio              : "State Key Lab of CAD&CG, Zhejiang University"
+  bio              : 
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 

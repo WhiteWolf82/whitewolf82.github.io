@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a senior algorithm engineer at the ATH department of <a href="https://www.alibabacloud.com/">Alibaba Cloud</a>, focusing on LLM application.
+
 I obtained my Ph.D. in Computer Engineering from Zhejiang University under the supervision of Prof. <a href="http://www.cad.zju.edu.cn/home/chenwei/">Wei Chen</a>. Before that, I earned my B.E. in Software Engineering at Zhejiang University. I also worked as a research assistant at <a href="https://www.xlang.ai/">XLang Lab</a>, the University of Hong Kong, with Prof. <a href="https://taoyds.github.io/">Tao Yu</a>.
 
 My research interests broadly lie in the intersection of large language models, visual analytics, and human-computer interaction. I design and implement novel visualization systems that enable users to interact with data and machines more efficiently. Recently, I am specifically interested in AI-assisted data analysis, focusing on leveraging advanced generative AI techniques (especially LLMs/VLMs) to augment data engineering, science, and analysis workflows.
