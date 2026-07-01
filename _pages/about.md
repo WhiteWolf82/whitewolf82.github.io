@@ -59,7 +59,7 @@ Annual Meeting of the Association for Computational Linguistics, 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/papers/deepresearcher.png' alt="DeepResearcher" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/papers/DeepResearcher.png' alt="DeepResearcher" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports from Scratch with Agentic Framework**
