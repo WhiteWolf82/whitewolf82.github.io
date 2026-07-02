@@ -191,10 +191,10 @@ Open-source implementation of language agents:
 </div>
 
 # 💻 Experiences
-- *2025.02 - 2025.07*, Research Engineer, [HiThink](https://hithink.sg/), Hangzhou
-- *2024.06 - 2024.12*, Research Engineer, [Tencent](https://www.tencent.com/), Shenzhen
+- *2026.06 - Present*, LLM Algorithm Engineer, [Alibaba Cloud](https://www.alibabacloud.com/), Hangzhou
+- *2025.02 - 2025.07*, LLM Algorithm Engineer, [HiThink](https://hithink.sg/), Hangzhou
+- *2024.06 - 2024.12*, LLM Algorithm Engineer, [Tencent](https://www.tencent.com/), Shenzhen
 - *2023.06 - 2023.11*, Research Assistant, [XLang Lab](https://www.xlang.ai/), Hong Kong
-- *2021.08 - 2021.12*, Research Engineer, [Huawei](https://www.huawei.com/cn/), Hangzhou
 - *2020.07 - 2020.10*, Software Engineer, [Tencent](https://www.tencent.com/), Shenzhen
 
 <!-- # 💬 Invited Talks
