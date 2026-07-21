@@ -31,6 +31,30 @@ Besides, I am passionate about photography and traveling.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM</div><img src='images/papers/GenUI.png' alt="GenUI" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Text: Proactive LLM Decision Assistance via Generative UI**
+
+Junyu Lu, Xuming Lin, **Luoxuan Weng**, Zhen Wen, Yiyao Wang, Ke Wang, Sunshine Jiang, Jun Zhou, Minfeng Zhu, Wei Chen 
+
+ACM International Conference on Multimedia, 2026
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM</div><img src='images/papers/ArchFact.png' alt="ArchFact" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ArchFact: A Multimodal System for Unstructured Archaeological Report Extraction and Assertion-Based Verification**
+
+Di Zhang, Tiantian Wang, Teng Wang, Wenji Zhu, Zeqi Hao, **Luoxuan Weng**, Wei Chen 
+
+ACM International Conference on Multimedia, 2026
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/papers/VisPilot.png' alt="VisPilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
